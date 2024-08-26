@@ -1,3 +1,3 @@
 # CI Test demo
 
-[![Build status](https://ci.appveyor.com/api/projects/status/9jge2rvqbxsp1r69?svg=true)](https://ci.appveyor.com/project/Prokopenko11/ajs-homeworks-tests-1)
+[![Build status](https://ci.appveyor.com/api/projects/status/aireq2ncn20qegpa?svg=true)](https://ci.appveyor.com/project/Prokopenko11/ajs-homeworks-tests-2)
